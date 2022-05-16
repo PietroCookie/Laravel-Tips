@@ -1,5 +1,5 @@
 <!-- # ![alt text](./img/logo-entier.png)  -->
-<img src="img/logo-entier.png">
+<img src="img/LogoLaravel.png">
 
 # Laravel 9 - Tips & Tricks
 
