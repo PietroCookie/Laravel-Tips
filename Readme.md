@@ -8,19 +8,27 @@ Dans repo, on retrouve différentes ressources afin de maitriser laravel.
 
 En effet, actuellement, nous avons deux dossier ``CleanLaravelCoding`` et ``LaravelFeatures``.
 
-``CleanLaravelCoding`` contient des explications afin de coder proprement avec Laravel en utilisant les principes dit "S.O.L.I.D"
+<ul>
 
-``LaravelFeatures`` contient des explications permettant de découvrir Laravel ainsi que de nombreuses fonctionnalités que Laravel propose.
+<li>``CleanLaravelCoding`` contient des explications afin de coder proprement avec Laravel en utilisant les principes dit "S.O.L.I.D"</li>
+
+<li>``LaravelFeatures`` contient des explications permettant de découvrir Laravel ainsi que de nombreuses fonctionnalités que Laravel propose.</li>
+</ul>
+
 
 ## <u>**2.Liens utiles**</u>
-**Documentation officiel de Laravel :** https://laravel.com/docs/9.x 
+<ul>
 
-**Cours écrit proposé par BestMomo :** https://laravel.sillo.org/laravel-9/
+<li> <b>Documentation officiel de Laravel :</b> https://laravel.com/docs/9.x  </li>
 
-**Forum officiel de Laravel :** https://laravel.io/forum
+<li> <b>Cours écrit proposé par BestMomo :</b> https://laravel.sillo.org/laravel-9/ </li>
 
-**Forum Laravel France :** https://laravel.fr/
+<li> <b>Forum officiel de Laravel :</b> https://laravel.io/forum </li>
 
-**Liste des différentes dépendances disponible pour Laravel :** https://packalyst.com/
+<li> <b>Forum Laravel France :</b> https://laravel.fr/ </li>
 
-**Chaine youtube Nord Coders :** : https://www.youtube.com/c/NordCoders
+<li> <b>Liste des différentes dépendances disponible pour Laravel :</b> https://packalyst.com/ </li>
+
+<li><b>Chaine youtube Nord Coders :</b> https://www.youtube.com/c/NordCoders </li>
+
+</ul>
