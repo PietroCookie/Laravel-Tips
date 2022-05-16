@@ -43,7 +43,7 @@ Puis on génère environ une centaine.
 
 Le but ici est de générer des rapports de commandes qui puisse être formater d'une certaine manière, ce rapport nous renvoie toutes les commandes passées entre deux dates.
 
-Nous allons donc créer un dossier ``App/Services/Order`` dans lequel nous allons créer un <a href="../LaravelFeatures/3.6-ProvidersServces.md">Service</a>  ``OrderReport.php``.
+Nous allons donc créer un dossier ``App/Services/Order`` dans lequel nous allons créer un <a href="../LaravelFeatures/3.6-ProvidersServices.md">Service</a>  ``OrderReport.php``.
 
 *<u>Code du fichier ``OrderReport.php`` : </u>*
 
