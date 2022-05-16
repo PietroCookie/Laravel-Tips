@@ -10,9 +10,9 @@ En effet, actuellement, nous avons deux dossier ``CleanLaravelCoding`` et ``Lara
 
 <ul>
 
-<li>``CleanLaravelCoding`` contient des explications afin de coder proprement avec Laravel en utilisant les principes dit "S.O.L.I.D"</li>
+<li> <b style="color:green">'/CleanLaravelCoding'</b>  contient des explications afin de coder proprement avec Laravel en utilisant les principes dit "S.O.L.I.D"</li>
 
-<li>``LaravelFeatures`` contient des explications permettant de découvrir Laravel ainsi que de nombreuses fonctionnalités que Laravel propose.</li>
+<li> <b style="color:green">'/LaravelFeatures'</b> contient des explications permettant de découvrir Laravel ainsi que de nombreuses fonctionnalités que Laravel propose.</li>
 </ul>
 
 
