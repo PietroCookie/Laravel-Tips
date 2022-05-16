@@ -4,7 +4,7 @@
 # Laravel 9 - Tips & Tricks
 
 ## <u>**1.Contenu du repo**</u>
-Dans repo, on retrouve différentes ressources afin de maitriser laravel.
+Dans ce repository, on retrouve différentes ressources afin de maitriser laravel.
 
 En effet, actuellement, nous avons deux dossier ``CleanLaravelCoding`` et ``LaravelFeatures``.
 
